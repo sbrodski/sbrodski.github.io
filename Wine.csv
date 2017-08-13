@@ -1,0 +1,64 @@
+source,target,value
+ItalyProd,ItalyCons,2341
+ItalyProd,GermanyCons,554
+ItalyProd,USACons,323
+ItalyProd,United KingdomCons,310
+ItalyProd,FranceCons,100
+ItalyProd,ChinaCons,29
+ItalyProd,RussiaCons,33
+ItalyProd,SpainCons,24
+ItalyProd,RestCons,1281
+FranceProd,FranceCons,1702
+FranceProd,USACons,109
+FranceProd,ItalyCons,15
+FranceProd,GermanyCons,240
+FranceProd,United KingdomCons,195
+FranceProd,ChinaCons,127
+FranceProd,RussiaCons,100
+FranceProd,SpainCons,7
+FranceProd,RestCons,2057
+SpainProd,FranceCons,650
+SpainProd,USACons,60
+SpainProd,ItalyCons,205
+SpainProd,GermanyCons,350
+SpainProd,United KingdomCons,150
+SpainProd,ChinaCons,50
+SpainProd,RussiaCons,80
+SpainProd,SpainCons,1010
+SpainProd,RestCons,696
+USAProd,USACons,1624
+USAProd,ItalyCons,40
+USAProd,FranceCons,4
+USAProd,GermanyCons,40
+USAProd,United KingdomCons,100
+USAProd,ChinaCons,17
+USAProd,RussiaCons,10
+USAProd,RestCons,842
+ArgentinaProd,ArgentinaCons,1029
+ArgentinaProd,USACons,100
+ArgentinaProd,United KingdomCons,21
+ArgentinaProd,RussiaCons,7
+ArgentinaProd,GermanyCons,6
+ArgentinaProd,RestCons,50
+AustraliaProd,USACons,193
+AustraliaProd,United KingdomCons,200
+AustraliaProd,ChinaCons,40
+AustraliaProd,GermanyCons,30
+AustraliaProd,RestCons,715
+South AfricaProd,USACons,16
+South AfricaProd,United KingdomCons,100
+South AfricaProd,GermanyCons,50
+South AfricaProd,RestCons,884
+ChileProd,USACons,200
+ChileProd,United KingdomCons,100
+ChileProd,GermanyCons,10
+ChileProd,RestCons,677
+ChinaProd,ChinaCons,964
+RestProd,United KingdomCons,139
+RestProd,GermanyCons,333
+RestProd,RussiaCons,865
+RestProd,RestCons,3864
+GermanyProd,USACons,100
+GermanyProd,United KingdomCons,56
+GermanyProd,RestCons,244
+GermanyProd,GermanyCons,550
